@@ -1,0 +1,6 @@
+-- Run schema then data (from project root):
+--   mysql -u root -p < src/main/resources/db/schema.sql
+--   mysql -u root -p < src/main/resources/db/data.sql
+--
+-- Or use the combined script:
+--   mysql -u root -p < src/main/resources/db/setup.sql
